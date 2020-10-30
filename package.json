@@ -1,0 +1,25 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "As a business owner",
+  "main": "manage the departments, roles, and employees in my company",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dit1091/Employee-Management-System.git"
+  },
+  "author": "Dannette Tejeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dit1091/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/dit1091/Employee-Management-System#readme"
+}
