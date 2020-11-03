@@ -19,12 +19,9 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 
 ## Usage 
- `node server.js`
- [localhost:3000/](https://http://localhost:3000/)
+ `node cli.js`
+ [localhost:3306/](http://localhost:3400/)
  
- ## Heroku
- https://pacific-atoll-46333.herokuapp.com/
-
 
 ## Questions 
 ![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
