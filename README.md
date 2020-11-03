@@ -16,11 +16,11 @@ This application is a solution for managing a company's employee data using node
 ## User Story
 `As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
-So that I can organize and plan my business
+So that I can organize and plan my business`
 
 ## Usage 
- `node cli.js`
- [localhost:3306/](http://localhost:3400/)
+ Prompt app with: `node cli.js`
+ [localhost:3306](http://localhost:3306/)
  
 
 ## Questions 
