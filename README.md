@@ -23,7 +23,8 @@ So that I can organize and plan my business
 
 ## Usage 
 Initialize app in terminal with:  
-`node cli.js`
+`node cli.js`  
+![DEMO](Assets/DEMO.gif)
 
 ## Questions 
 ![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  
