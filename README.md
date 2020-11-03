@@ -1,5 +1,5 @@
 # Employee-Management-System
-This application is a solution for managing a company's employee data using node, inquirer, and MySQL. It is a command-line interface (CLI) that allows a business owner to view, add, update, and remove data regarding departments, roles, employees.
+This application is a solution for managing a company's employee database using node, inquirer, and MySQL. It is a command-line interface (CLI) that allows a business owner to view, add, update, and remove data regarding departments, roles, employees.
 
 ## Table of Contents 
 * [Installation](#installation) 
@@ -22,9 +22,10 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business`
 
 ## Usage 
- Prompt app with: `node cli.js`
- [localhost:3306](http://localhost:3306/)
- 
+Initialize app with:  
+`node cli.js`
+[localhost:3306](http://localhost:3306/). 
 
 ## Questions 
-![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
+![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  
+[dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
