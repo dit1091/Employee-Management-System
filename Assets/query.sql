@@ -1,4 +1,4 @@
-SE employee_trackerDB;
+USE employee_trackerDB;
 
 -- Query to display all employee information
 SELECT employee.id AS 'ID', 
