@@ -27,4 +27,4 @@ Initialize app in terminal with:
 
 ## Questions 
 ![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  
-[dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
+[dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)h
