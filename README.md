@@ -22,9 +22,8 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 
 ## Usage 
-Initialize app with:  
+Initialize app in `terminal`:  
 `node cli.js`
-[localhost:3306](http://localhost:3306/). 
 
 ## Questions 
 ![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  
