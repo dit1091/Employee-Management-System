@@ -1,1 +1,30 @@
 # Employee-Management-System
+This application is a solution for managing a company's employee data using node, inquirer, and MySQL. It is a command-line interface (CLI) that allows a business owner to view, add, update, and remove data regarding departments, roles, employees.
+
+## Table of Contents 
+* [Installation](#installation) 
+* [Usage](#usage) 
+* [License](#license) 
+* [Questions](#questions) 
+
+
+## Installation 
+ `npm install`
+ `npm inquirer`
+ `MySQL NPM Package`
+
+## User Story
+`As a business owner
+I want to be able to view and manage the departments, roles, and employees in my company
+So that I can organize and plan my business
+
+## Usage 
+ `node server.js`
+ [localhost:3000/](https://http://localhost:3000/)
+ 
+ ## Heroku
+ https://pacific-atoll-46333.herokuapp.com/
+
+
+## Questions 
+![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
