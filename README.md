@@ -22,7 +22,7 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 
 ## Usage 
-Initialize app in `terminal`:  
+Initialize app in terminal with:  
 `node cli.js`
 
 ## Questions 
