@@ -17,11 +17,11 @@ This application is a solution for managing a company's employee database using 
  
 
 ## User Story
-`As a business owner.  
+As a business owner.  
 
 I want to be able to view and manage the departments, roles, and employees in my company.  
 
-So that I can organize and plan my business`
+So that I can organize and plan my business
 
 ## Usage 
 Initialize app with:  
