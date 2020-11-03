@@ -9,9 +9,12 @@ This application is a solution for managing a company's employee data using node
 
 
 ## Installation 
- `npm install`
- `npm inquirer`
- `MySQL NPM Package`
+ `npm install`  
+ 
+ `npm inquirer`  
+ 
+ `MySQL NPM Package`  
+ 
 
 ## User Story
 `As a business owner
